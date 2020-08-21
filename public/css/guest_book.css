@@ -1,0 +1,63 @@
+form .error {
+    color: #ff0000;
+}
+
+._8f1i {
+    background-color: rgba(9, 30, 66);
+    border-radius: inherit;
+    height: 100%;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+._2tga._8j9v {
+    border-radius: 3px;
+    font-size: 11px;
+    height: 20px;
+    padding: 0 6px;
+}
+._89n_:active {
+    background: #1877f2;
+    border: 0;
+}
+
+._2tga:active {
+    background: #577fbc;
+    border: 1px solid #577fbc;
+}
+._89n_:hover {
+    background: #1877f2;
+    border: 0;
+}
+._2tga:hover {
+    background: #365899;
+    border: 1px solid #365899;
+}
+._2tga._8j9v {
+    border-radius: 3px;
+    font-size: 11px;
+    height: 20px;
+    padding: 0 6px;
+}
+._89n_ {
+    background: #1877f2;
+    border: 0;
+}
+._2tga {
+    background: #4267b2;
+    border: 1px solid #4267b2;
+    color: #fff;
+    cursor: pointer;
+    font-family: Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    position: relative;
+    -webkit-user-select: none;
+    white-space: nowrap;
+}
+.inlineBlock {
+    display: inline-block;
+    zoom: 1;
+}
